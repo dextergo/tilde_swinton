@@ -1,0 +1,9 @@
+---
+0.0.1 multi_json:>= 0,nokogiri:>= 0,uri_template:>= 0|checksum:5ddeb01df356fbf040c88afa98239de951b92708f77fec6bdc1e320c6505e01b
+0.1.0 multi_json:>= 0,nokogiri:>= 0,uri_template:>= 0|checksum:14d04bcef16f9c1f4e32864c95c4227136a405f03bad4da9a7de0552a18f9b77
+0.2.0 addressable:>= 0,multi_json:>= 0,nokogiri:>= 0|checksum:493b39f00da19eb393e49cf15b49f1366ef4eba5a9bef21f69a097912dd2b87c
+0.3.0 addressable:>= 0,multi_json:>= 0,nokogiri:>= 0|checksum:324a97072d8cbfd658a63c537a76a7b637e4a05703ef3811110b628b7898b717
+0.3.1 addressable:>= 0,multi_json:>= 0,nokogiri:>= 0|checksum:98903167c36b70da72866a6fad98818cd0cb9891b87cf276c4d1aba670613783
+0.4.0 addressable:>= 0,multi_json:>= 0|checksum:4d5bb6d0e97774fc1887bd722d9a9a92e9834c043656527d15050712fd66b016
+0.4.1 multi_json:>= 0|checksum:5eb57b8394d8507bffbd24121f4b5d959c52e653a15f3b2bf87d6cec3312e3b6
+0.5.0 multi_json:>= 0|checksum:6c06edf591e30b7bbcb3b3df3633a5ebce9dc141d2ed8ab5c54bf1efe6f2f557,ruby:>= 1.9.3

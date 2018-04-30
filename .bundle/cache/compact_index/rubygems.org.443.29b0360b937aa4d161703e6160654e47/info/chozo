@@ -1,0 +1,16 @@
+---
+0.0.1 activemodel:>= 0,multi_json:>= 1.3.0|checksum:7c4b68fa7b39a47bb3571c5bf72bb98d13190678a96799789afba794d7a3a7d1
+0.0.2 activemodel:>= 0,activesupport:>= 0,multi_json:>= 1.3.0|checksum:fa38c670187c6d1ad9bfeec361fad9f1944264a713099debc2651c85f64bc0a1
+0.0.3 activemodel:>= 0,activesupport:>= 0,multi_json:>= 1.3.0|checksum:24502793e095f63349a47f85b87419fd89e116ee0573060a89e32d6094841aa9
+0.1.0 activemodel:>= 3.2.0,activesupport:>= 3.2.0,multi_json:>= 1.3.0|checksum:e8b6ba32bf049bfe21fd0cc4299768c0acb7b2988760eac4eac493f1705b2e35
+0.2.0 activemodel:>= 3.2.0,activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:bd72c81651dedaec24931bd90533a4466b20c3b8bfe75e08e224180590883b95
+0.2.1 activemodel:>= 3.2.0,activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:2a42e76859f4f8e1cd69dd8884b5a9a64a148f665e3e6820bce4cebfb12340a9
+0.2.2 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:974d406a3f877cee512f29bf55dffd3cb43797a765a5dcb9ef6130b451e75f7c
+0.2.3 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:0fa982d6ff8f8bedd79941bb66602d07e8faabdd8c82c339c8db4a2fb9f6a7cf
+0.3.0 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:a603d9ac9603136f13ee3de6da203892f6729734a65e26c1bcc38a8bf5d2e8b7
+0.4.0 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:302968b23f9e50dc24529c56895a177293ef5a50912b873216b70e07aa9e70a7
+0.4.1 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:70958d24ac4e1b6dcfe143f9d34ebbd95436e121f942c235aae466b0f7788100
+0.4.2 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:c5b98489aad19e17eef01d877d3ccc5abca38ccbed7e621fa987f1a17b8ee6fd
+0.5.0 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:4c667a0a0b8a27ca28746295a5b195732e088ff7776b3d0c88e9ae65f3de0803
+0.6.0 activesupport:>= 3.2.0,hashie:>= 0,multi_json:>= 1.3.0|checksum:618a223a4c3835810372a0646a3842c52ecd58e1c82a848ed33e846d3d142c8a
+0.6.1 activesupport:>= 3.2.0,hashie:>= 2.0.2,multi_json:>= 1.3.0|checksum:530f3eaa1abc80bda72799d572aab772ff3c71dd37218091a9e493463edba541

@@ -1,0 +1,25 @@
+[2018-04-27 16:29:13] __rvm_set_executable
+__rvm_set_executable () 
+{ 
+    for __file in "$@";
+    do
+        [[ -x "${__file}" ]] || chmod +x "${__file}";
+    done
+}
+current path: /Users/dg091242/.rvm/src/ruby-2.4.1
+PATH=/usr/local/opt/coreutils/bin:/usr/local/opt/pkg-config/bin:/usr/local/opt/libtool/bin:/usr/local/opt/automake/bin:/usr/local/opt/autoconf/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/dg091242/.rvm/bin
+command(8): __rvm_set_executable /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/erb /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/gem /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/irb /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/rake /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/rdoc /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/ri /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/ruby
+++ /scripts/functions/gemset : __rvm_set_executable()  372 > for __file in '"$@"'
+++ /scripts/functions/gemset : __rvm_set_executable()  373 > [[ -x /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/erb ]]
+++ /scripts/functions/gemset : __rvm_set_executable()  372 > for __file in '"$@"'
+++ /scripts/functions/gemset : __rvm_set_executable()  373 > [[ -x /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/gem ]]
+++ /scripts/functions/gemset : __rvm_set_executable()  372 > for __file in '"$@"'
+++ /scripts/functions/gemset : __rvm_set_executable()  373 > [[ -x /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/irb ]]
+++ /scripts/functions/gemset : __rvm_set_executable()  372 > for __file in '"$@"'
+++ /scripts/functions/gemset : __rvm_set_executable()  373 > [[ -x /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/rake ]]
+++ /scripts/functions/gemset : __rvm_set_executable()  372 > for __file in '"$@"'
+++ /scripts/functions/gemset : __rvm_set_executable()  373 > [[ -x /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/rdoc ]]
+++ /scripts/functions/gemset : __rvm_set_executable()  372 > for __file in '"$@"'
+++ /scripts/functions/gemset : __rvm_set_executable()  373 > [[ -x /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/ri ]]
+++ /scripts/functions/gemset : __rvm_set_executable()  372 > for __file in '"$@"'
+++ /scripts/functions/gemset : __rvm_set_executable()  373 > [[ -x /Users/dg091242/.rvm/rubies/ruby-2.4.1/bin/ruby ]]

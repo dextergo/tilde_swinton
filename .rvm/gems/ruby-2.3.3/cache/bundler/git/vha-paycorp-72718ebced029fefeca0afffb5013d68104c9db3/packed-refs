@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+d006be3ea37f10050f1415164dad4221bc8f85e9 refs/heads/Credit-card-error-mapping
+a024c5ccf4fc70ff6c7ef9c922e0a47f9ee6fe25 refs/heads/SSX-1268
+416dbdfab02f6a3ae36082632625c551de488207 refs/heads/SSX-896
+b31cc80a8b0baaee9a59e067ab12999568ed0eab refs/heads/SSY-504
+5ac5b704070d9929aab3de5fe26129dafcbb090d refs/heads/develop
+ca7cb65b7d27d60ab139490e5c14dd2b28390967 refs/heads/master
+bb5fbea16b3d35bcf4309b6fa185257090b105c8 refs/heads/recharge-fallback

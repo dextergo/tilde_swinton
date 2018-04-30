@@ -1,0 +1,3 @@
+module Subcontractor
+
+end

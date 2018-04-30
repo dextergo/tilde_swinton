@@ -1,0 +1,16 @@
+[2018-04-30 09:52:45] __rvm_post_configure_ruby
+__rvm_post_configure_ruby () 
+{ 
+    __rvm_post_configure_ruby_fix_athlon_sse2;
+    __rvm_post_configure_ruby_update_setup
+}
+current path: /Users/dg091242/.rvm/src/ruby-2.3.3
+GEM_HOME=/Users/dg091242/.rvm/gems/ruby-2.4.1
+PATH=/usr/local/opt/coreutils/bin:/usr/local/opt/pkg-config/bin:/usr/local/opt/libtool/bin:/usr/local/opt/automake/bin:/usr/local/opt/autoconf/bin:/Users/dg091242/.rvm/gems/ruby-2.4.1/bin:/Users/dg091242/.rvm/gems/ruby-2.4.1@global/bin:/Users/dg091242/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/dg091242/.rvm/bin
+GEM_PATH=/Users/dg091242/.rvm/gems/ruby-2.4.1:/Users/dg091242/.rvm/gems/ruby-2.4.1@global
+command(1): __rvm_post_configure_ruby
+++ __rvm_post_configure_ruby_fix_athlon_sse2
+++ [[ -f /proc/cpuinfo ]]
+++ __rvm_post_configure_ruby_update_setup
+++ typeset option
+++ ((  0 == 1  ))

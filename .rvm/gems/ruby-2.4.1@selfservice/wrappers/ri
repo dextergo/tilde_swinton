@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if
+  [[ -s "/Users/dg091242/.rvm/gems/ruby-2.4.1@selfservice/environment" ]]
+then
+  source "/Users/dg091242/.rvm/gems/ruby-2.4.1@selfservice/environment"
+  exec ri "$@"
+else
+  echo "ERROR: Missing RVM environment file: '/Users/dg091242/.rvm/gems/ruby-2.4.1@selfservice/environment'" >&2
+  exit 1
+fi

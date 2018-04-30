@@ -1,0 +1,65 @@
+[2018-04-27 16:29:16] __rvm_package_extract
+__rvm_package_extract () 
+{ 
+    rvm_debug __rvm_package_extract:$#: "$@";
+    \typeset __tempdir __path __file __return;
+    __return=0;
+    __tempdir="$( TMPDIR="${rvm_tmp_path}" mktemp -d -t rvm-tmp.XXXXXXXXX )";
+    __rvm_package_extract_run "$1" "$__tempdir" || __return=$?;
+    if (( __return == 0 )); then
+        for __path in "$__tempdir"/*;
+        do
+            __file="${__path##*/}";
+            if [[ -n "${__file}" && -e "$2/${__file}" ]]; then
+                \command \rm -rf "$2/${__file}" || __return=$?;
+            fi;
+            \command \mv -f "${__path}" "$2/" || __return=$?;
+        done;
+    fi;
+    if [[ -n "$__tempdir" ]]; then
+        \command \rm -rf "$__tempdir";
+    fi;
+    return $__return
+}
+current path: /Users/dg091242/.rvm/src/ruby-2.4.1
+PATH=/usr/local/opt/coreutils/bin:/usr/local/opt/pkg-config/bin:/usr/local/opt/libtool/bin:/usr/local/opt/automake/bin:/usr/local/opt/autoconf/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/dg091242/.rvm/bin
+command(3): __rvm_package_extract /Users/dg091242/.rvm/archives/rubygems-2.6.14.tgz /Users/dg091242/.rvm/src
+++ /scripts/functions/utility_package : __rvm_package_extract()  69 > rvm_debug __rvm_package_extract:2: /Users/dg091242/.rvm/archives/rubygems-2.6.14.tgz /Users/dg091242/.rvm/src
+++ /scripts/functions/logging : rvm_debug()  149 > ((  0  ))
+++ /scripts/functions/logging : rvm_debug()  149 > return 0
+++ /scripts/functions/utility_package : __rvm_package_extract()  70 > typeset __tempdir __path __file __return
+++ /scripts/functions/utility_package : __rvm_package_extract()  71 > __return=0
++++ /scripts/functions/utility_package : __rvm_package_extract()  72 > TMPDIR=/Users/dg091242/.rvm/tmp
++++ /scripts/functions/utility_package : __rvm_package_extract()  72 > mktemp -d -t rvm-tmp.XXXXXXXXX
+++ /scripts/functions/utility_package : __rvm_package_extract()  72 > __tempdir=/var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS
+++ /scripts/functions/utility_package : __rvm_package_extract()  73 > __rvm_package_extract_run /Users/dg091242/.rvm/archives/rubygems-2.6.14.tgz /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  35 > [[    != *\ \-\-\n\o\-\s\a\m\e\-\o\w\n\e\r\ * ]]
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  36 > __rvm_tar --help
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  36 > __rvm_grep -- --no-same-owner
+++ /scripts/functions/support : __rvm_grep()  260 > GREP_OPTIONS=
+++ /scripts/functions/support : __rvm_grep()  260 > command grep -- --no-same-owner
+++ /scripts/functions/support : __rvm_grep()  260 > grep -- --no-same-owner
+++ /scripts/functions/support : __rvm_grep()  260 > return 1
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  41 > [[ -d /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS ]]
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  42 > case "$1" in
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  53 > [[ -n '' ]]
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  55 > __rvm_tar xzf /Users/dg091242/.rvm/archives/rubygems-2.6.14.tgz -C /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS
+++ /scripts/functions/support : __rvm_tar()  277 > tar xzf /Users/dg091242/.rvm/archives/rubygems-2.6.14.tgz -C /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS
+++ /scripts/functions/utility_package : __rvm_package_extract_run()  62 > __rvm_fix_group_permissions /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS/rubygems-2.6.14
+++ /scripts/functions/utility_package : __rvm_fix_group_permissions()  6 > umask -S
+++ /scripts/functions/utility_package : __rvm_fix_group_permissions()  6 > __rvm_grep g=rw
+++ /scripts/functions/support : __rvm_grep()  260 > GREP_OPTIONS=
+++ /scripts/functions/support : __rvm_grep()  260 > command grep g=rw
+++ /scripts/functions/support : __rvm_grep()  260 > grep g=rw
+++ /scripts/functions/support : __rvm_grep()  260 > return 1
+++ /scripts/functions/utility_package : __rvm_package_extract()  75 > ((  __return == 0  ))
+++ /scripts/functions/utility_package : __rvm_package_extract()  77 > for __path in '"$__tempdir"/*'
+++ /scripts/functions/utility_package : __rvm_package_extract()  79 > __file=rubygems-2.6.14
+++ /scripts/functions/utility_package : __rvm_package_extract()  81 > [[ -n rubygems-2.6.14 ]]
+++ /scripts/functions/utility_package : __rvm_package_extract()  81 > [[ -e /Users/dg091242/.rvm/src/rubygems-2.6.14 ]]
+++ /scripts/functions/utility_package : __rvm_package_extract()  85 > command mv -f /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS/rubygems-2.6.14 /Users/dg091242/.rvm/src/
+++ /scripts/functions/utility_package : __rvm_package_extract()  85 > mv -f /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS/rubygems-2.6.14 /Users/dg091242/.rvm/src/
+++ /scripts/functions/utility_package : __rvm_package_extract()  88 > [[ -n /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS ]]
+++ /scripts/functions/utility_package : __rvm_package_extract()  89 > command rm -rf /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS
+++ /scripts/functions/utility_package : __rvm_package_extract()  89 > rm -rf /var/folders/f9/2_gts5fj373_ztl859kkwxc1s499zb/T/rvm-tmp.XXXXXXXXX.sgxK9fCS
+++ /scripts/functions/utility_package : __rvm_package_extract()  91 > return 0

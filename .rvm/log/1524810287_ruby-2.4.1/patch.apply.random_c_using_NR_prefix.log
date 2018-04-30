@@ -1,0 +1,10 @@
+[2018-04-27 16:26:26] __rvm_patch
+__rvm_patch () 
+{ 
+    \patch "$@" || return $?
+}
+current path: /Users/dg091242/.rvm/src/ruby-2.4.1
+PATH=/usr/local/opt/coreutils/bin:/usr/local/opt/pkg-config/bin:/usr/local/opt/libtool/bin:/usr/local/opt/automake/bin:/usr/local/opt/autoconf/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/dg091242/.rvm/bin
+command(8): __rvm_patch -F 25 -p1 -N -f -i /Users/dg091242/.rvm/patches/ruby/2.4.1/random_c_using_NR_prefix.patch
+++ /scripts/functions/support : __rvm_patch()  383 > patch -F 25 -p1 -N -f -i /Users/dg091242/.rvm/patches/ruby/2.4.1/random_c_using_NR_prefix.patch
+patching file random.c

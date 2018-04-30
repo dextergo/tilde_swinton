@@ -1,0 +1,7 @@
+---
+0.1.0 simplecov:>= 0|checksum:4c2529ed21bed43f05df41074fab80e93741d83eec811e7ef0034ef20d308569,rubygems:>= 1.2
+0.1.1 simplecov:>= 0|checksum:f2ea569a02b2eedd67f793e4a7f70574aa5a35af900fc8161aaee228dec24d57,rubygems:>= 1.2
+0.1.2 simplecov:>= 0|checksum:48c08b3a62066ed4cc739931edea2a57776d31a3fa8fcc955ef8ddc0a14c936c,rubygems:>= 1.2
+0.1.4 simplecov:>= 0|checksum:c7717a6decc791d23350800dd4ddcc8b94a61f631dfbc80a6752ace46dc7957c,rubygems:>= 1.2
+0.2.0 |checksum:95ed7d792f2280266bd53e53d5bbe518c7a986c4a616b8d767a8d7962fd17d28,rubygems:>= 1.2
+0.2.3 simplecov:>= 0.4.1|checksum:c7f621b07b43ea9a304034485befa405a4fd26786b677dff74e3d493cb56ce14,rubygems:>= 1.2

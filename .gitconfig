@@ -1,0 +1,4 @@
+[http]
+        proxy = http://internal-proxy.dc.vodafone.com.au:8080
+[https]
+        proxy = https://internal-proxy.dc.vodafone.com.au:8080

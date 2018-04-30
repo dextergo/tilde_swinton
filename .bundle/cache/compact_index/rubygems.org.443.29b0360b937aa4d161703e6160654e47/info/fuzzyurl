@@ -1,0 +1,7 @@
+---
+0.2.0 |checksum:e5942bc3f72de8329183348414ccaa6ae8a54fe1b81c8828ae5f6dea3772dbc4,ruby:>= 1.8.7
+0.2.1 |checksum:4c672e1cd22fbd4ecc84150dbea5ff62208856e24c410a06df05db653c7b9aa3,ruby:>= 1.8.7
+0.2.2 |checksum:d06643fd871a7ce47362af13a6382ee47e5f30bb810c0a265b7d9bef09bc2e52,ruby:>= 1.8.7
+0.2.3 |checksum:855e34dcedd2ca2408319439bc0d4987033bf01e1c743d300401fadae7e3acb7,ruby:>= 1.8.7
+0.8.0 |checksum:591d82dd0e864c4446e9aef0ede7a5deb604645e77b538947ef33f015e6141ea,ruby:>= 1.9.3
+0.9.0 |checksum:542efa80f2bcaadbdc402c2f0b572f2e335a1d53e375aecad68bbb3d86860c0f,ruby:>= 1.9.3

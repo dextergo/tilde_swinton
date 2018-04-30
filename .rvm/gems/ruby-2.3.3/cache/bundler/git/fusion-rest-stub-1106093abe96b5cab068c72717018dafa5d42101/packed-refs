@@ -1,0 +1,42 @@
+# pack-refs with: peeled fully-peeled sorted 
+b11ad6e099e1624441806fa6c10a72db7e861dc5 refs/heads/NBA-Branch
+7018b54879fa7f7d6a0d9e793f9b495618ebf313 refs/heads/QC-657
+b25149a193fc563c69e2a7725eb279b6b5287372 refs/heads/SS-2429
+6bdad7edfcefec346d09757d757c8fce253c0558 refs/heads/SS-2701
+ec109db8158424004c0cd7bd726a910d43681624 refs/heads/SSX-258
+be2464de957ac4b41249556a0f40e053a9ae9e33 refs/heads/SSX-407
+5b9d3a08502ff54352c8d3790baf9b15b88ce0e1 refs/heads/SSX-44
+a3baf71574b0338e78bb4da9adeee5d652122cc4 refs/heads/SSX-530
+e5feba53d35ab46dab63bd32fd811640fee5c557 refs/heads/SSX-578
+dabc0c512d1a39913c0e12f84715fb7cfb4dde46 refs/heads/SSX-78
+06a5f7df0931b9019ff109125a6401e65add9fa5 refs/heads/SSX-992
+12f83558614850d40c78c1d16df02b09a30b8f2c refs/heads/SSY-1249
+6851755c276f35b01067889592c245a973bb9342 refs/heads/SSY-1253
+145170c1d6da5c7300e5d5c5ab809430bb23c471 refs/heads/SSY-1361
+3476d68b8a51afc9a2583b9e8edc88327c2b744b refs/heads/SSY-193
+4fb8a48421d37a232f2dc0793d3beda78942b5af refs/heads/SSY-610
+3873db258fcb75bed1cfc03f42d9706d3752e018 refs/heads/SSY-632
+6c349c01a8a10d01c79867d42796b6c7c4ec46c9 refs/heads/SSY-644
+687765c0b885c49414b28d7740275b47ad533610 refs/heads/SSY-905
+66aadf419a74abf87c5ddb94a5257594b4c3a205 refs/heads/SSY-907
+0ce12446be9ef2d95ed0b752e5f0afbbc7f54807 refs/heads/SSZ-139
+2814fe96f880dc2eb6e8f9f0279a7d855a8615d9 refs/heads/SSZ-285
+33ae228474ed49717998feacccc4344ab2a8c54a refs/heads/SSZ-286
+8b34b236be3bbd456f41af2f49d424f3db4e3fca refs/heads/SSZ-39
+1ea69c002ac371ccbb81ba47658cf4f0ec633bce refs/heads/SSZ-521
+43deb26e2680baa31e647354c78e66f8afd04702 refs/heads/SSZ-523
+96b5b7cb046af2702d041838fe27235744d58f54 refs/heads/fix_for_msisn_validation
+0b5a1d703bf1304f7c8239a4298f356f790d89ac refs/heads/master
+2b67e58a15d46dfbb54ef7ed73a32e991cd18e47 refs/heads/otp-stub
+6e0435888957e23adfbb206d928ee577e22bb9cc refs/heads/porting-fix
+1e3c07af3e0fef28b9347653136a83f873bcb11a refs/heads/recharge-fallback
+d30393bff0074a4f7ce2829833132ad41577f522 refs/heads/recharge-fallback-repeat-problem
+fbdc06d240665490f9d01c70359e5f6282e14f68 refs/heads/start-end-date
+1b4fb48cc9e2aba017a3a6b95ce513bb7614136a refs/heads/stubs-for-csi
+58445e9da7474be59b276fc5a468c453c3e6e696 refs/heads/v1.0.1
+e02cc400dae3eb3a2db290c6af58ce78017ed10a refs/heads/wallet
+e02cc400dae3eb3a2db290c6af58ce78017ed10a refs/heads/wallet1b
+475172abd2e8c491b81060112137e1359c0b5b00 refs/tags/v1.0.1
+^58445e9da7474be59b276fc5a468c453c3e6e696
+3b87ae7bb1e9fb41546bb0ab3282772669a07154 refs/tags/v1.0.2
+^b8844fc487c7779075ba16bc8c6563aef483ba05

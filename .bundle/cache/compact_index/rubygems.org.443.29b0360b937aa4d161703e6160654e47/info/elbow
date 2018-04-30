@@ -1,0 +1,7 @@
+---
+0.0.1 aws-sdk:>= 0,net-dns:>= 0|checksum:690c520c87858075b01474747e4ed48ffdf2c978a778a866b792a98bf5e2b397
+0.0.2 aws-sdk:>= 0,net-dns:>= 0|checksum:5cbce53c95d6508a9378a489aad4353880116b97e2641a5718cea631254c9863
+0.0.3 aws-sdk:>= 0,net-dns:>= 0|checksum:6dd1707ae43c3a6a14a38a010335150d59db6732fc58a00696e8222d03301952
+0.0.4 aws-sdk:>= 0,net-dns:>= 0|checksum:b22718a07d5f2641f3228264988553937ae50a4c279508b40d2600917b7aeb25
+0.0.5 aws-sdk:>= 0,net-dns:>= 0|checksum:e32af5ea3839bdd07c8064ed9881b92dbb32d35a85afa3a0cbfa0c47db81d982
+0.0.6 aws-sdk:>= 0,net-dns:>= 0|checksum:a183c862163deda86227de11864efcb179cb347ed3d51ddc970c4ebd8929f162

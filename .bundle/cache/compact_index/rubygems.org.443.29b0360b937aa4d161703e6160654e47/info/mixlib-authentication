@@ -1,0 +1,14 @@
+---
+1.1.0 mixlib-log:>= 0|checksum:b5baa9f5836045590938b60d640b636b7983cf1594444f70cc4f0a46e091ea61
+1.1.2 mixlib-log:>= 0|checksum:5e1514e0689d3515a0dfcb992e38eea03a1c24ce6e80251ab8d35205fbccc83b
+1.1.4 mixlib-log:>= 0|checksum:6684362ac2b42e58c73f6982aea1d459d0ea57bfc64364679ac51aeb41b1420a
+1.1.4.rc.1 mixlib-log:>= 0|checksum:7611ece843ae46f628b22c95f7f8ee4a9acfbef36ff8227c4a2675c18059592b,rubygems:> 1.3.1
+1.3.0.beta.0 mixlib-log:>= 0|checksum:a49a9154f98b8375d6c4c9dea4d10572b15fc63f15703933762b0afdb8e19968,rubygems:> 1.3.1
+1.3.0.beta.1 mixlib-log:>= 0|checksum:dc8e51f6601f6d378e05080b4255a5f633a392df8b110074260bbd263d3a95c6,rubygems:> 1.3.1
+1.3.0 mixlib-log:>= 0|checksum:ef0bb04f4d4e7cc7fab1f63a9ce08c5a1d1ebca70303db1eaf5ab3a16e2cb7b0
+1.4.0.rc.0 mixlib-log:>= 0,rspec-core:~> 3.2,rspec-expectations:~> 3.2,rspec-mocks:~> 3.2|checksum:6e5c70b97bcfab6215392c1b18b8385bdfd0e715b36be603c05e2f2d08191931,rubygems:> 1.3.1
+1.4.0.rc.1 mixlib-log:>= 0,rspec-core:~> 3.2,rspec-expectations:~> 3.2,rspec-mocks:~> 3.2|checksum:2e8875ed5447bd5cf0e8a9af324c278cda764ccb47b59b310fcdd4cf20050416,rubygems:> 1.3.1
+1.4.0 mixlib-log:>= 0,rspec-core:~> 3.2,rspec-expectations:~> 3.2,rspec-mocks:~> 3.2|checksum:f203f6ea557c7f2e02c63d36dc8896ffc64f93c905eaf1e793e6ce252cad6662
+1.4.1 mixlib-log:>= 0|checksum:50bd0bb6789ad44a75582942589fd824f2a3d0a5da80c4fd310b31c3e92c59ec
+1.4.2 |checksum:eb5ddd0b678b9e50e859358a7157578b18d3278e9ed6647a06ce5a8167de08d2
+2.0.0 |checksum:e2cc18a139b8071d17abee32661a656c123204ccd5fb6623295ea0a812bf4a55

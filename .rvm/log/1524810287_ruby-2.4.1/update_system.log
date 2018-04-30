@@ -1,0 +1,116 @@
+[2018-04-27 16:24:47] requirements_osx_brew_update_system
+requirements_osx_brew_update_system () 
+{ 
+    if __rvm_version_compare "${_system_version}" -ge 10.7; then
+        __rvm_detect_xcode_version_at_least 4.6.2 || __CLT_version_at_least 4.6.0 || { 
+            \typeset ret=$?;
+            rvm_error "
+Xcode version older than 4.6.2 installed, download and install newer version from:
+
+    http://connect.apple.com
+
+After installation open Xcode, go to Downloads and install Command Line Tools.
+";
+            return $ret
+        };
+    fi;
+    brew update || { 
+        \typeset ret=$?;
+        rvm_error "Failed to update Homebrew, follow instructions here:
+    https://github.com/Homebrew/homebrew/wiki/Common-Issues
+and make sure \`brew update\` works before continuing.";
+        return $ret
+    }
+}
+current path: /Users/dg091242/.rvm/src/rvm
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/dg091242/.rvm/bin
+command(2): requirements_osx_brew_update_system ruby-2.4.1
+++ /scripts/functions/requirements/osx_brew : requirements_osx_brew_update_system()  389 > __rvm_version_compare 10.12 -ge 10.7
+++ /scripts/functions/utility : __rvm_version_compare()  193 > typeset first
++++ /scripts/functions/utility : __rvm_version_compare()  194 > command printf %b '10.12\n10.7\n'
++++ /scripts/functions/utility : __rvm_version_compare()  194 > printf %b '10.12\n10.7\n'
++++ /scripts/functions/utility : __rvm_version_compare()  194 > __rvm_version_sort
++++ /scripts/functions/utility : __rvm_version_compare()  194 > command head -n1
++++ /scripts/functions/utility : __rvm_version_compare()  194 > head -n1
++++ /scripts/functions/utility : __rvm_version_sort()  177 > command awk '-F[.-]' -v OFS=. '{       # split on "." and "-", merge back with "."
+    original=$0                            # save original to preserve it before the line is changed
+    for (n=1; n<10; n++) {                 # iterate through max 9 components of version
+      $n=tolower($n)                       # ignore case for sorting
+      if ($n=="")         $n="0"           # treat non existing parts as 0
+      if ($n ~ /^p[0-9]/) $n=substr($n, 2) # old ruby -p notation
+      if ($n ~ /^[a-z]/)  $n=" "$n         # names go before numbers thanks to space
+    }
+    print $0"\t"original                   # print the transformed version and original separated by \t so we can extract original after sorting
+  }'
++++ /scripts/functions/utility : __rvm_version_sort()  177 > awk '-F[.-]' -v OFS=. '{       # split on "." and "-", merge back with "."
+    original=$0                            # save original to preserve it before the line is changed
+    for (n=1; n<10; n++) {                 # iterate through max 9 components of version
+      $n=tolower($n)                       # ignore case for sorting
+      if ($n=="")         $n="0"           # treat non existing parts as 0
+      if ($n ~ /^p[0-9]/) $n=substr($n, 2) # old ruby -p notation
+      if ($n ~ /^[a-z]/)  $n=" "$n         # names go before numbers thanks to space
+    }
+    print $0"\t"original                   # print the transformed version and original separated by \t so we can extract original after sorting
+  }'
++++ /scripts/functions/utility : __rvm_version_sort()  187 > LC_ALL=C
++++ /scripts/functions/utility : __rvm_version_sort()  187 > sort -t. -k 1,1d -k 2,2n -k 3,3n -k 4,4n -k 5,5n -k 6,6n -k 7,7n -k 8,8n -k 9,9n
++++ /scripts/functions/utility : __rvm_version_sort()  188 > awk '-F\t' '{print $2}'
+++ /scripts/functions/utility : __rvm_version_compare()  194 > first=10.7
+++ /scripts/functions/utility : __rvm_version_compare()  196 > case "$2" in
+++ /scripts/functions/utility : __rvm_version_compare()  210 > [[ 10.7 == \h\e\a\d ]]
+++ /scripts/functions/utility : __rvm_version_compare()  212 > [[ 10.7 == \1\0\.\7 ]]
+++ /scripts/functions/utility : __rvm_version_compare()  232 > return 0
+++ /scripts/functions/requirements/osx_brew : requirements_osx_brew_update_system()  391 > __rvm_detect_xcode_version_at_least 4.6.2
++++ /scripts/functions/utility : __rvm_detect_xcode_version_at_least()  169 > __rvm_detect_xcode_version
++++ /scripts/functions/utility : __rvm_detect_xcode_version()  140 > typeset version_file
++++ /scripts/functions/utility : __rvm_detect_xcode_version()  141 > for version_file in /Applications/Xcode.app/Contents/version.plist /Developer/Applications/Xcode.app/Contents/version.plist
++++ /scripts/functions/utility : __rvm_detect_xcode_version()  146 > [[ -f /Applications/Xcode.app/Contents/version.plist ]]
++++ /scripts/functions/utility : __rvm_detect_xcode_version()  149 > [[ -x /usr/libexec/PlistBuddy ]]
++++ /scripts/functions/utility : __rvm_detect_xcode_version()  151 > /usr/libexec/PlistBuddy -c 'Print CFBundleShortVersionString' /Applications/Xcode.app/Contents/version.plist
++++ /scripts/functions/utility : __rvm_detect_xcode_version()  155 > return 0
+++ /scripts/functions/utility : __rvm_detect_xcode_version_at_least()  169 > typeset __xcode_version=9.2
+++ /scripts/functions/utility : __rvm_detect_xcode_version_at_least()  170 > [[ -n 9.2 ]]
+++ /scripts/functions/utility : __rvm_detect_xcode_version_at_least()  171 > __rvm_version_compare 9.2 -ge 4.6.2
+++ /scripts/functions/utility : __rvm_version_compare()  193 > typeset first
++++ /scripts/functions/utility : __rvm_version_compare()  194 > command printf %b '9.2\n4.6.2\n'
++++ /scripts/functions/utility : __rvm_version_compare()  194 > printf %b '9.2\n4.6.2\n'
++++ /scripts/functions/utility : __rvm_version_compare()  194 > __rvm_version_sort
++++ /scripts/functions/utility : __rvm_version_compare()  194 > command head -n1
++++ /scripts/functions/utility : __rvm_version_compare()  194 > head -n1
++++ /scripts/functions/utility : __rvm_version_sort()  177 > command awk '-F[.-]' -v OFS=. '{       # split on "." and "-", merge back with "."
+    original=$0                            # save original to preserve it before the line is changed
+    for (n=1; n<10; n++) {                 # iterate through max 9 components of version
+      $n=tolower($n)                       # ignore case for sorting
+      if ($n=="")         $n="0"           # treat non existing parts as 0
+      if ($n ~ /^p[0-9]/) $n=substr($n, 2) # old ruby -p notation
+      if ($n ~ /^[a-z]/)  $n=" "$n         # names go before numbers thanks to space
+    }
+    print $0"\t"original                   # print the transformed version and original separated by \t so we can extract original after sorting
+  }'
++++ /scripts/functions/utility : __rvm_version_sort()  187 > LC_ALL=C
++++ /scripts/functions/utility : __rvm_version_sort()  187 > sort -t. -k 1,1d -k 2,2n -k 3,3n -k 4,4n -k 5,5n -k 6,6n -k 7,7n -k 8,8n -k 9,9n
++++ /scripts/functions/utility : __rvm_version_sort()  177 > awk '-F[.-]' -v OFS=. '{       # split on "." and "-", merge back with "."
+    original=$0                            # save original to preserve it before the line is changed
+    for (n=1; n<10; n++) {                 # iterate through max 9 components of version
+      $n=tolower($n)                       # ignore case for sorting
+      if ($n=="")         $n="0"           # treat non existing parts as 0
+      if ($n ~ /^p[0-9]/) $n=substr($n, 2) # old ruby -p notation
+      if ($n ~ /^[a-z]/)  $n=" "$n         # names go before numbers thanks to space
+    }
+    print $0"\t"original                   # print the transformed version and original separated by \t so we can extract original after sorting
+  }'
++++ /scripts/functions/utility : __rvm_version_sort()  188 > awk '-F\t' '{print $2}'
+++ /scripts/functions/utility : __rvm_version_compare()  194 > first=4.6.2
+++ /scripts/functions/utility : __rvm_version_compare()  196 > case "$2" in
+++ /scripts/functions/utility : __rvm_version_compare()  210 > [[ 4.6.2 == \h\e\a\d ]]
+++ /scripts/functions/utility : __rvm_version_compare()  212 > [[ 4.6.2 == \4\.\6\.\2 ]]
+++ /scripts/functions/utility : __rvm_version_compare()  232 > return 0
+++ /scripts/functions/utility : __rvm_detect_xcode_version_at_least()  172 > true
+++ /scripts/functions/requirements/osx_brew : requirements_osx_brew_update_system()  405 > brew update
+Updated 1 tap (homebrew/core).
+==> Updated Formulae
+annie
+bedops
+libebml
+libmatroska
+mkvtoolnix

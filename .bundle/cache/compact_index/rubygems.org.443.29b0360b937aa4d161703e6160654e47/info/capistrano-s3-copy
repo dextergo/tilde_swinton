@@ -1,0 +1,5 @@
+---
+0.0.1 capistrano:>= 2.12.0|checksum:5320a390698a46bde1ce338e0b7075e8b05e8ea26c6112d71e15958df8ecee0c
+0.0.2 capistrano:>= 2.12.0,frahugo-s3sync:>= 0|checksum:4c7554cedee011e7cf46e38daa88c543e7bd46b348083f7dfb6db0540c34bc9b
+0.0.3 capistrano:>= 2.12.0,frahugo-s3sync:>= 0|checksum:d1228d94c63f9dba25ae432775ad48c4e408b3e2c1964de75e78824968af016c
+0.0.4 capistrano:>= 2.12.0,frahugo-s3sync:>= 0|checksum:aee64c2ca70660d13b6af227e82c0f160a4042224d13f0ffc2090ece559a2b6a

@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+03598cc106448502796e3c3bcd1e38d112e0a180 refs/heads/CLI-test
+7674769fb5ab1aa52bb541ce4fee6e885e9aed20 refs/heads/SS-2669
+514ef7092d4bd90c7131544253fefde8b2b0aeb2 refs/heads/SSYN-19
+02a5533c961b773428d3122be6b75a38b0442bf8 refs/heads/SSYN-443
+6d77df87bb147db01cdae117b1632e3b17fef312 refs/heads/develop
+a57278168c38b892d2701ba562c4c0c8d4629ea7 refs/heads/master
+7500d9b0698bebf8131fc4566ef852ce958c9344 refs/tags/v0.0.1
+27441d126f3160c6bc24dc337d35727fd1385008 refs/tags/v0.1.0
+1ff3e6bbd94d4a582bfb8357ad1e87b343cc8b14 refs/tags/v0.3.0
+^142dde5b0cf8b2b87c8c80dad011abb4340393c8

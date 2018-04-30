@@ -1,0 +1,3 @@
+---
+0.0.1 faraday_middleware:< 0.10&>= 0.9|checksum:3c1de020258731e199734e6c74aa3059153228a3d90199b6e3b1c7172d631d88
+0.1.0 faraday_middleware:~> 0.9|checksum:0aed2e6114a518ca9447f4002421a5a980e6227e61c7fcb662f48cd437b4bb8e

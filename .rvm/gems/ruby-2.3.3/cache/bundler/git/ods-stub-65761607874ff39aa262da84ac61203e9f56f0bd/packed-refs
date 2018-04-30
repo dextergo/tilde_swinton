@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+0c52398c541ce47695d7a2f8b9b9c9419cfbe7b7 refs/heads/SS-1066
+de7cb97003bd72b98dd40e1325ccf70d94ab5ad4 refs/heads/master
+f45b7ebe3589acc33286efcde283e61be4b4cccd refs/heads/rails_upgrade
+d6149149d4b5157fddca7abc18752b639b121832 refs/tags/v1.0.1
+3b7b27ec94d0d637566497a200f55ef89fa27003 refs/tags/v1.0.2
+bcf2fb9b99fdcaee2669e362586082c2fdc2ad4d refs/tags/v1.0.3
+ce5a5875c9b24c38d7edccdae0a9241626b29626 refs/tags/v1.0.4

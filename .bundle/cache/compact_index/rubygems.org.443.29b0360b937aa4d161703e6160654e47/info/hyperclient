@@ -1,0 +1,28 @@
+---
+0.0.1 |checksum:dc4bf3b7d7b25fa81c28164f07c9ad68ee6267b73037c10130fa93760ccb3d49
+0.0.2 httparty:>= 0|checksum:7c9d8d151bc796b2b5e20b665d07150799d930beaef9e66656cf499e00f40a4e
+0.0.3 httparty:>= 0|checksum:be8eb47ba87532791a287e5030097fc1bc37c725a531c3ef4ce1b4188dfc97f8
+0.0.4 httparty:>= 0|checksum:17300f07d8146a48cf3ec6c8b459b803804a7607c74415fa6b2b28cb1dacdfe2
+0.0.5 httparty:>= 0|checksum:a4df508727be47929865da0496b1fcc0027ad24082425370ce1e93746f45d575
+0.0.6 httparty:>= 0|checksum:ec5e606c5788a9a1c9ed8ee0e20a21b5aa858dd232c3193d879fbe6aec7b7065
+0.0.7 httparty:>= 0|checksum:a4e0f8db79ddb6283c66fae7a7e5e7abbf882c3d4f579e277740f35dd2ce7e48
+0.0.8 httparty:>= 0|checksum:1af1558c8717520b288366db5ca55104de8832efd2e9e323791a80e393c82b5d
+0.1.0 httparty:>= 0,uri_template:>= 0|checksum:9cc5261bc87005db39b99359143b0cc16b17daf8b2085c207893cdfd21d90be1
+0.2.0 faraday:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:1bb0765d6c76aeddb4f4eddff8330a5c79e2a5dfb9fc32cf3f8f5394ffb5069a
+0.3.0 faraday:~> 0.8,faraday_middleware:~> 0.9,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:eb971deb2c13127683d61417cc222a7aff9e8e2953650b89ead70f15bc586601
+0.3.1 faraday:~> 0.8,faraday_middleware:~> 0.9,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:48cf992beea03b552a3babd4a072630da632cdd54d10db56dbb049367d846d18
+0.3.2 faraday:~> 0.8,faraday_middleware:~> 0.9,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:234d9aadc20426ae1161a665663ee830d2cc652336044aaed4294ce82c3fa366
+0.4.0 faraday:~> 0.8,faraday_middleware:~> 0.9,futuroscope:>= 0.0.10,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:e3975cff3847fd98abd46bacec9b5e9f467549c6c0b386dac37eb85839369760
+0.5.0 faraday:~> 0.8,faraday-digestauth:~> 0.2,faraday_middleware:~> 0.9,futuroscope:>= 0.0.10,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:aa642e7a1954148bbfb0ed0a3e44e76d1a22cfa5e7762962ed039287b8eb9c44
+0.6.1 faraday:~> 0.8,faraday-digestauth:~> 0.2,faraday_middleware:~> 0.9,futuroscope:>= 0.0.10,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:21e72720b79a83d5bf04d3142688e5a6026e79c7d35aed1834e032099969b44f
+0.7.0 faraday:~> 0.8,faraday-digestauth:~> 0.2,faraday_hal_middleware:~> 0.0.1,faraday_middleware:~> 0.9,futuroscope:>= 0.0.10,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:29e52f35876a3f9889d90cf64db97628a821a1ac6d51c047309dce9afabd28c4
+0.7.1 faraday:~> 0.8,faraday-digestauth:~> 0.2,faraday_hal_middleware:~> 0.0.1,faraday_middleware:~> 0.9,futuroscope:>= 0.0.10,net-http-digest_auth:~> 1.2,uri_template:~> 0.5|checksum:bf3f5733ea42f7b4f9e5f157bf69dec544d02b4dbcdb7057ee1a8d6e10c8ef8b
+0.7.2 faraday:>= 0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:79d3a5d96040214a8c8e9e33249f6b22bbb7a651fab6d2945f5d7f575fefa58b
+0.8.0 faraday:>= 0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:432f268867d5a2cdcf941b1804a03b422df501c5b455c0cd49df960ba70425a5
+0.8.1 faraday:>= 0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:544b128cb3304a03fbcbd318bebdf065d15af9f8b84e1a2c2dfc74aebaf7cc0b
+0.8.2 faraday:>= 0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:eaacb48650ac8f71e7a3b553727bb1508d7e764c5cbe7d42b99ea2d51252acc2
+0.8.3 faraday:>= 0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:c2754378f0bb48c26fba741cb0baa799cdd958297db09008a1bde6103962ec6c
+0.8.4 faraday:>= 0.9.0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:c584585f4a6a77ddd13e2dc4539404b83a9f702ee3241c40e55a94da0451aaef
+0.8.5 faraday:>= 0.9.0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:509d6cfa223a720d6944e0b81ceb16396d280a68387d26834ddd9d9e9bb45e57
+0.8.6 faraday:>= 0.9.0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,futuroscope:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:da82c76cd454508311d12ea115cfe6ac748d381f35624f906f2123ddd27b189d
+0.9.0 faraday:>= 0.9.0,faraday-digestauth:>= 0,faraday_hal_middleware:>= 0,faraday_middleware:>= 0,net-http-digest_auth:>= 0,uri_template:>= 0|checksum:ea5e0974ef132b4709ab59d64db8ad0d2b1fdc520e0af4c547c6a63064e9a37f

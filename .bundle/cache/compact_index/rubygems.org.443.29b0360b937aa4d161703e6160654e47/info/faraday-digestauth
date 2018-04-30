@@ -1,0 +1,6 @@
+---
+0.0.1 faraday:>= 0|checksum:8626ff1f8ace4cdf83606b3ad9f9a819869b7763febefafafcf5aa611b3718ba
+0.0.2 faraday:>= 0,net-http-digest_auth:>= 0|checksum:308cccbed2371e32ec7bb0db87628a2fec8337394e9bf67c98e6a9689c89516a
+0.2.0 faraday:~> 0.7,net-http-digest_auth:~> 1.4|checksum:49ad8f382aa84acc987c83d71c31f7d03dcc97139746f8600e1d38e9bb8fd9eb
+0.2.1 faraday:~> 0.7,net-http-digest_auth:~> 1.4|checksum:3cb5b67b09624a9c8d84385f6e07334de747d2d672a00044aa1064252220f4ab
+0.3.0 faraday:~> 0.7,net-http-digest_auth:~> 1.4|checksum:ec721050c8e1c279876b726a9932271f0439791aacaa4fd45e10723ef01e7771

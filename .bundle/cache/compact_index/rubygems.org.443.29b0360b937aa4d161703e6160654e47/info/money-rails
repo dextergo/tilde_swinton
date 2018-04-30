@@ -1,0 +1,32 @@
+---
+0.0.1 activesupport:>= 3.0,money:>= 4.0.2,railties:>= 3.0|checksum:98fe6160139a71523d8118eca41e5251ba7fa741ac32aabdf1318b56bd41fd01
+0.1.0 activesupport:~> 3.0,money:~> 5.0.0,railties:~> 3.0|checksum:74a4e536423d80f42ef811342631d2ad829852349eaf46228498fb4d17d537af
+0.2.0 activesupport:~> 3.0,money:~> 5.0.0,railties:~> 3.0|checksum:f90860d3b55c4c557814ba6718988869e6d0f805db2224412d3c3eca64dde7d6
+0.3.0 activesupport:~> 3.0,money:~> 5.0.0,railties:~> 3.0|checksum:e8a338555619ccf2a3ca941a81447f6aeba553e365fe14dc5d5a227526f8870f
+0.3.1 activesupport:~> 3.0,money:~> 5.0.0,railties:~> 3.0|checksum:ee67437b90ba310127de9c3bd66fd682a4ad369a5b547031180b83066cc1381f
+0.4.0 activesupport:~> 3.0,money:~> 5.0.0,railties:~> 3.0|checksum:ecd9d61bd24b0901161efd7e2b05ad7faba3092e715a90a13629e1dd8d1ea122
+0.5.0 activesupport:~> 3.0,money:~> 5.0.0,railties:~> 3.0|checksum:32b276f5a29d144addc84b9800ac25c41c62066998f09f81cf9fa4bee9f1cf2b
+0.6.0 activesupport:~> 3.0,money:~> 5.0.0,railties:~> 3.0|checksum:20da152173a3fbef0d30a37108959ec4cb62202ecd57ccbd50287f04f36909f8
+0.7.0.pre1 activesupport:~> 3.0,money:~> 5.1.0,railties:~> 3.0|checksum:bd0daf82ab51071b4971b7efe1aa5aa05d3cb2e1c2a3448b799da9f82db93ba7,rubygems:> 1.3.1
+0.7.0 activesupport:~> 3.0,money:~> 5.1.0,railties:~> 3.0|checksum:fdcbbd1346b178d3a00321cbb10a63948d64551930eb780547fd912ed4e5fa1e
+0.7.1 activesupport:~> 3.0,money:~> 5.1.0,railties:~> 3.0|checksum:854f5ce428d3641019fe410f7f93958f359d6049fc1515bbc84e6a776806319d
+0.8.1 activesupport:>= 3.0,money:~> 5.1.0,railties:>= 3.0|checksum:0684f7f9c88d5f1810845112d6891324508e3c33fa7bb526067e26929ea9528f
+0.9.0 activesupport:>= 3.0,money:~> 6.0.0,railties:>= 3.0|checksum:1f48c7fdba5668e4d9089758aa6c984d734ceb3788a78735b83f06623cd75280
+0.10.0 activesupport:>= 3.0,monetize:~> 0.3.0,money:~> 6.1.1,railties:>= 3.0|checksum:9595de4f2fe206f7c65f6c81b7c52652414d76359776ebee572e44466dfa731d
+0.11.0 activesupport:>= 3.0,monetize:~> 0.3.0,money:~> 6.1.1,railties:>= 3.0|checksum:60cede098e3c36b807398a6f47de7f8a3c874fb2c2530653a426855b293e1f9f
+0.12.0 activesupport:>= 3.0,monetize:~> 0.3.0,money:~> 6.1.1,railties:>= 3.0|checksum:855d45d2914edc6b76ddd25157ba3deba04495a0b86a5f8fbec6cc0dd60c2886
+1.0.0 activesupport:>= 3.0,monetize:~> 1.0.0,money:~> 6.4.0,railties:>= 3.0|checksum:533b3c74ecfaccc91feace7696e135356d5b83d0782d09de546caec4efbc32c5
+1.1.0 activesupport:>= 3.0,monetize:~> 1.0.0,money:~> 6.4.0,railties:>= 3.0|checksum:3692338f72a7611f60b387ee4d771ef5aa4e3f9bac90284a8a6c56f5d7c70cf0
+1.2.0 activesupport:>= 3.0,monetize:~> 1.1.0,money:~> 6.5.0,railties:>= 3.0|checksum:1c9dfd64b4adb4c98e0a91073a6d24e8b27c99450f0146ba318afa63976eb27c
+1.3.0 activesupport:>= 3.0,monetize:~> 1.1.0,money:~> 6.5.0,railties:>= 3.0|checksum:96731ec93f13146f81a29d91ac6952967b2cf6106b35110a053d6518df73741a
+1.4.0 activesupport:>= 3.0,monetize:~> 1.1.0,money:~> 6.5.0,railties:>= 3.0|checksum:73558bde3813c345dd6651b417de4de2f554a49eab2346605bd84d894f0c859e
+1.4.1 activesupport:>= 3.0,monetize:~> 1.1.0,money:~> 6.5.0,railties:>= 3.0|checksum:a71706c4011145c928fb36102802e372017936c1e5c5a9624323903be8ef71c6
+1.5.0 activesupport:>= 3.0,monetize:~> 1.3.0,money:~> 6.6,railties:>= 3.0|checksum:f9cd46562160a8813898cda423945306641e13410252e6a52d25c6ef9004b00f
+1.6.0 activesupport:>= 3.0,monetize:~> 1.4.0,money:~> 6.7,railties:>= 3.0|checksum:1c9e2228a22acb40b7d0080280e8c88937b46c7ecd3da693c3ab51825e80778c
+1.6.1 activesupport:>= 3.0,monetize:~> 1.4.0,money:~> 6.7,railties:>= 3.0|checksum:03a2278b67555984a0123c008787c3aaa44544101c6f8204578f6c1f2cf8131f
+1.6.2 activesupport:>= 3.0,monetize:~> 1.4.0,money:~> 6.7,railties:>= 3.0|checksum:a5285ccd38d3cf994cddc77deb56df18ff6002da6008f16a1207a1268f685a0c
+1.7.0 activesupport:>= 3.0,monetize:~> 1.4.0,money:~> 6.7,railties:>= 3.0|checksum:a113b8891feb4920540b71e501df125d4d76aa3d86ebdd953c2e767a624363fe
+1.8.0 activesupport:>= 3.0,monetize:~> 1.6.0,money:~> 6.8.1,railties:>= 3.0|checksum:87c60f7b09877fb243c45bb63952f61200724f6043a4c57f35d162b1a60b5ce4
+1.9.0 activesupport:>= 3.0,monetize:~> 1.7.0,money:~> 6.9.0,railties:>= 3.0|checksum:2cd5728132cb990a328e9f0b18b61b270c5e09cdd5e0e0bf16c18984a860fae6
+1.10.0 activesupport:>= 3.0,monetize:~> 1.7.0,money:~> 6.10.0,railties:>= 3.0|checksum:ceb47aa563d79fe33bf444ebe25be4ec0429f975f919e2caac59108bb11dd386
+1.11.0 activesupport:>= 3.0,monetize:~> 1.7.0,money:~> 6.11.0,railties:>= 3.0|checksum:5186365dd1d26b6c394c1bcfe8c970a1fb2fff286136db2b868be75659c84100

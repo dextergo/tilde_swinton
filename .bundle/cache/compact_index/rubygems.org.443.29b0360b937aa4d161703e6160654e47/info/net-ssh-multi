@@ -1,0 +1,7 @@
+---
+1.0.0 net-ssh:>= 1.99.2,net-ssh-gateway:>= 0.99.0|checksum:057345680acdb89e3f67719801020c305f50cf5fcb5dd02123fee8121e27cca1
+1.0.1 echoe:>= 0,net-ssh:>= 1.99.2,net-ssh-gateway:>= 0.99.0|checksum:1bc1eb793db0499e99a26347168d5a5264e689ceb5ca9ec0992d8699eadc77ad,rubygems:>= 1.2
+1.1 net-ssh:>= 2.1.4,net-ssh-gateway:>= 0.99.0|checksum:154fff57310acf868348f04e9e84eb5592369d4e18674301bf6a83b80c9f85a1
+1.2.0 net-ssh:>= 2.6.5,net-ssh-gateway:>= 1.2.0|checksum:b079a271e3e5ed569d80689adcf56dad24a5e99a2eb242b9f90322a608114724
+1.2.1 net-ssh:>= 2.6.5,net-ssh-gateway:>= 1.2.0|checksum:e154105859d5cd30e132aaf9eff735d1f766d756f713a21bab29bf6956fa7d8e
+1.3.0.rc1 net-ssh:>= 2.6.5,net-ssh-gateway:>= 1.2.0|checksum:9549ba77c1bdc219734a1bdf7f4d8fed19238a0be7002121d70113cd5a37a5d7,rubygems:> 1.3.1

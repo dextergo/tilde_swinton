@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+0bd9dd58607a98c44eadbfab9abdf9c9d5a1b0ea refs/heads/SS-1158
+bc161b424a3a95c093caf6e358e9763d26a396b0 refs/heads/SS-1652-upstream
+a81b89db4880610a8b74c8b135f59dcdf55c20ac refs/heads/master
+3910e2d1e90ee3eadaa369e6a75cdbfb191c27b0 refs/heads/rails_cache_storage
+327d1510a4004af374328b171859b70cda675715 refs/tags/1.1

@@ -1,0 +1,6 @@
+---
+0.1.0 buff-ruby_engine:~> 0.1.0|checksum:4ef0bd3d78372dae76049e3a6cecab0e5c11a7e944b5f9965c8083fbd0a6123a
+0.1.1 buff-ruby_engine:~> 0.1.0|checksum:4eba5670671545df72123b4a8f078d32e97e8bb54b2bfa2baedf1760400c73ce
+0.2.0 buff-ruby_engine:~> 0.1.0|checksum:77b83e3b61f4262e1e822c7dee3612a6cb32c9093f2a2ab43764d4be9359f06a,ruby:>= 1.9.2
+1.0.0 buff-ruby_engine:~> 0.1.0|checksum:6211caf8144be135148849eba9a50e42ab8c21baccbd9695a0d55e95a74467b1,ruby:>= 2.2.0
+1.1.0 buff-ruby_engine:~> 1.0|checksum:93d1a477124a4ce9091aa1ec128d67c5e2b5364760412fa2863c957342a4e17d,ruby:>= 2.2.0

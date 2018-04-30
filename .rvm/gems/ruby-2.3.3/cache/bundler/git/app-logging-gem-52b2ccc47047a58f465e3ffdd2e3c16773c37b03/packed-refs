@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+0f1e505de78f2a1bdf902707dbaf227dda3e3311 refs/heads/SS-1904
+6caae0096051b32f8648ae3f1f101a188f042a22 refs/heads/master
+a5d59e526096f1c4b82e2e9fb78600e482cd1bfa refs/heads/updated-jeweler
+4c3305d77da43b29aebba0d9756cf11cc3c9bdcb refs/tags/v0.0.3
+53dd5622fadb01b51713b7751372f2ce8303d60f refs/tags/v0.0.4
+8ee92ff2c96b0c332efe99a04e1aea1cfef8a956 refs/tags/v0.0.5
