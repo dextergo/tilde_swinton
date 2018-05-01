@@ -30,30 +30,30 @@
 "0	LINE	0
 		proxy_status
 ""1	LINE	0
-		show_proxy_strings
-"2	LINE	0
-	alias pru='export http_proxy=http://localhost:9999 && export HTTP_PROXY=$http_proxy && export HTTPS_PROXY=$http_proxy && export https_proxy=$http_proxy'
-"3	LINE	0
 	
+"2	LINE	0
+		show_proxy_strings
+"3	LINE	0
+	alias pru='export http_proxy=http://localhost:9999 && export HTTP_PROXY=$http_proxy && export HTTPS_PROXY=$http_proxy && export https_proxy=$http_proxy'
 "4	LINE	0
-	NoProxy *
+	
 "5	LINE	0
-		
+	NoProxy *
 "6	LINE	0
-		echo "HTTP_PROXY=$HTTP_PROXY"
+		
 "7	LINE	0
-	alias proxy_on='export http_proxy=http://localhost:9999 && export HTTP_PROXY=$http_proxy && export HTTPS_PROXY=$http_proxy && export https_proxy=$http_proxy'
+		echo "HTTP_PROXY=$HTTP_PROXY"
 "8	LINE	0
-		ProxyCommand corkscrew 172.19.16.150 8080 %h %p /Users/YOURHOME/.corkscrew-auth
+	alias proxy_on='export http_proxy=http://localhost:9999 && export HTTP_PROXY=$http_proxy && export HTTPS_PROXY=$http_proxy && export https_proxy=$http_proxy'
 "9	LINE	0
-	   ProxyCommand /usr/local/bin/corkscrew 127.0.0.1 3128 %h %p /Users/dg091242/.ssh/dextergo_auth
+		ProxyCommand corkscrew 172.19.16.150 8080 %h %p /Users/YOURHOME/.corkscrew-auth
 "-	CHAR	0
 		
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-'1  2  11  ~/.gitignore
-'2  1  0  ~/.gitignore
+'0  1  19  ~/.git/COMMIT_EDITMSG
+'1  1  8  ~/.gitignore
+'2  4  11  ~/.gitignore
 '3  20  1  ~/.bash_profile
 '4  32  21  ~/.bash_profile
 '5  39  0  /usr/local/etc/cntlm.conf
@@ -63,9 +63,9 @@
 '9  7  26  ~/.ssh/config
 
 # Jumplist (newest first):
--'  1  0  ~/.git/COMMIT_EDITMSG
--'  2  11  ~/.gitignore
--'  1  0  ~/.gitignore
+-'  1  19  ~/.git/COMMIT_EDITMSG
+-'  1  8  ~/.gitignore
+-'  4  11  ~/.gitignore
 -'  20  1  ~/.bash_profile
 -'  1  0  ~/.bash_profile
 -'  32  21  ~/.bash_profile
@@ -164,26 +164,27 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	"	1	0
-	^	1	23
-	.	1	22
-	+	1	22
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
 
 > ~/.gitignore
-	"	2	11
-	^	2	12
-	.	2	11
-	+	8	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	10	0
 	+	1	12
-	+	4	7
-	+	5	9
-	+	6	6
-	+	8	4
-	+	9	9
-	+	10	7
-	+	11	5
+	+	6	7
+	+	7	9
+	+	8	6
+	+	10	4
+	+	11	9
+	+	12	7
+	+	13	5
 	+	1	5
-	+	2	11
+	+	4	11
+	+	1	8
 
 > ~/.bash_profile
 	"	20	1
