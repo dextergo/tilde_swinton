@@ -1,8 +1,10 @@
+.account
 .viminfo
 .*history
 .gem/*
 .rvm/*
 .oh-my-zsh/*
+.Trash
 Applications
 Desktop
 Downloads
