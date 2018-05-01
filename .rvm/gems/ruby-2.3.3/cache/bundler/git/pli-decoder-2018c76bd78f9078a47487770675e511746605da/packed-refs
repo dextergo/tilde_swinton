@@ -1,7 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-87a5938f1d1b339473ea9b353881e5a4c24ff872 refs/heads/SSINV-238a
-6ba01b7462e2dd14a41e20306564f4adb345408c refs/heads/master
-200413154133a361d32508a0cba5e49de76cab0d refs/tags/v0.1.0
-0662fa772b8a565b9b113f4a725253d35e8018f7 refs/tags/v0.1.1
-d2cca012e2306de8118fc80f1ebc03b0ed71729f refs/tags/v0.2.0
-57d5b59cd7aa9a5537f185bde9eee375e900d401 refs/tags/v0.2.1
