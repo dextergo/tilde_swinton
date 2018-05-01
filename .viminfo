@@ -51,9 +51,9 @@
 		
 
 # File marks:
-'0  1  19  ~/.git/COMMIT_EDITMSG
-'1  1  8  ~/.gitignore
-'2  4  11  ~/.gitignore
+'0  1  7  ~/.gitignore
+'1  1  11  ~/.git/COMMIT_EDITMSG
+'2  5  11  ~/.gitignore
 '3  20  1  ~/.bash_profile
 '4  32  21  ~/.bash_profile
 '5  39  0  /usr/local/etc/cntlm.conf
@@ -63,9 +63,9 @@
 '9  7  26  ~/.ssh/config
 
 # Jumplist (newest first):
--'  1  19  ~/.git/COMMIT_EDITMSG
--'  1  8  ~/.gitignore
--'  4  11  ~/.gitignore
+-'  1  7  ~/.gitignore
+-'  1  11  ~/.git/COMMIT_EDITMSG
+-'  5  11  ~/.gitignore
 -'  20  1  ~/.bash_profile
 -'  1  0  ~/.bash_profile
 -'  32  21  ~/.bash_profile
@@ -163,28 +163,28 @@
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/COMMIT_EDITMSG
-	"	1	19
-	^	1	20
-	.	1	19
-	+	1	19
-
 > ~/.gitignore
-	"	1	8
-	^	1	9
-	.	1	8
-	+	10	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	11	0
 	+	1	12
-	+	6	7
-	+	7	9
-	+	8	6
-	+	10	4
-	+	11	9
-	+	12	7
-	+	13	5
+	+	7	7
+	+	8	9
+	+	9	6
+	+	11	4
+	+	12	9
+	+	13	7
+	+	14	5
 	+	1	5
-	+	4	11
-	+	1	8
+	+	5	11
+	+	1	7
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
 
 > ~/.bash_profile
 	"	20	1
