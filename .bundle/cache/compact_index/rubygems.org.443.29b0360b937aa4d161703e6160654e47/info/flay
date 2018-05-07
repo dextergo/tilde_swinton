@@ -25,3 +25,4 @@
 2.9.0 erubis:~> 2.7.0,path_expander:~> 1.0,ruby_parser:~> 3.0,sexp_processor:~> 4.0|checksum:1280d3a4a5bc314f752c4af59fd399a59912443e08a43c51501196b0d6ce3d90
 2.10.0 erubis:~> 2.7.0,path_expander:~> 1.0,ruby_parser:~> 3.0,sexp_processor:~> 4.0|checksum:c3c2042d968efdaf92242f713ed2bd3b4a4f4c3b77815d87de527cc3537eef67
 2.11.0 erubis:~> 2.7.0,path_expander:~> 1.0,ruby_parser:~> 3.0,sexp_processor:~> 4.0|checksum:45115152571fc1d2ad4fd461d80764e600c2ee6b7823cf7a964e1585fd41fb54
+2.12.0 erubis:~> 2.7.0,path_expander:~> 1.0,ruby_parser:~> 3.0,sexp_processor:~> 4.0|checksum:d8e72e65ddab0d58ee3be7e83d22f8bae9715a52f4512db7ac581bc59d86013d

@@ -262,3 +262,5 @@
 6.3.0 activemodel:~> 5.1,mongo:< 3.0.0&>= 2.5.0|checksum:7d2d7d948d42d8c7b130ca53d951ec84215592d1ba733999e0d8b0c926e4877b,ruby:>= 2.2,rubygems:>= 1.3.6
 6.4.0 activemodel:< 6.0.0&>= 5.1,mongo:< 3.0.0&>= 2.5.1|checksum:4801b87482b8e5b2cf8287f0a91e14089c4a56f7d2e05709363c5b16dc72fb65,ruby:>= 2.2,rubygems:>= 1.3.6
 7.0.0 activemodel:< 6.0.0&>= 5.1,mongo:< 3.0.0&>= 2.5.1|checksum:379178ef0474b19f7c86f8ec2d31240989a40912a93f92766989a7ed139b2751,ruby:>= 2.2,rubygems:>= 1.3.6
+5.4.0 activemodel:~> 4.0,mongo:< 3.0.0&>= 2.5.1,origin:~> 2.3,tzinfo:>= 0.3.37|checksum:18c31a703fc40603084160241aae9ceab9e2a3317328d266d30ae5f590cf4a71,ruby:>= 1.9,rubygems:>= 1.3.6
+6.4.1 activemodel:< 6.0.0&>= 5.1,mongo:< 3.0.0&>= 2.5.1|checksum:eaf21a2b72bdbc34046c91b654d3e4035ff1f149a3f3ea9a9a930d93f138c843,ruby:>= 2.2,rubygems:>= 1.3.6

@@ -614,3 +614,6 @@
 2.11.37 aws-sdk-resources:= 2.11.37|checksum:4ec59ce363695f90e72ed84cdf8f3aad09c5357ab56b7d48efe9e38420b5cc91
 2.11.38 aws-sdk-resources:= 2.11.38|checksum:81baaa3f868a30b5a657df884abe18e61b4f5ca150a4893df269b78086770e6c
 2.11.39 aws-sdk-resources:= 2.11.39|checksum:1029acdb8b962295baaaa488b4c8851f7033388ae21e0da9e5b838aba234570c
+2.11.40 aws-sdk-resources:= 2.11.40|checksum:a74191dc91bebe54fd5b1231ee3641da39d0d2c235a663c04e0ce93e3da75cff
+2.11.41 aws-sdk-resources:= 2.11.41|checksum:023c6f8c5a75e1f1bd72cc28f97726223a0cf775f3054345021fe21e4b3a7026
+2.11.42 aws-sdk-resources:= 2.11.42|checksum:34eedf4a376e0ddf28657f873c109ff0bef53041e4e7df891b9662481b6fe03c

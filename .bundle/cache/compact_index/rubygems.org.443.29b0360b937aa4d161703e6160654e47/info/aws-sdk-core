@@ -518,3 +518,6 @@
 2.11.38 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:cb5d79ac11bc42b6146d3511fe41f044eb5333fe3e11d1b301d54a4ace2c1278
 2.11.39 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:44334c9b528d52f4a922e7917910461f4fe22eda5fc1b3bfbc23386a4b4186b7
 3.20.2 aws-partitions:~> 1.0,aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:b687fb617dfe6f8e860af63337e5572cec2f1676568606032e58a88bd177d745
+2.11.40 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:760a273d85596c2b1ea982f4601efe421d7e311980b5bf49a99725433b2b9c4e
+2.11.41 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:0cbbd7f3dc2175e63e44ce8eae1bdd3da1d7e4448009519032dab1cef3a1d572
+2.11.42 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:4cc650258269bb54bf2a7b23bbe1c57eecd8679260edd7d4db4e417c2f450f25

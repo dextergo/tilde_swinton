@@ -109,3 +109,4 @@
 3.2.1 addressable:>= 2.3.6,crack:>= 0.3.2,hashdiff:>= 0|checksum:e8003220b76390dd912faeb81559ffa04f317363a38f9557be961d5054efc415,ruby:>= 2.0
 3.3.0 addressable:>= 2.3.6,crack:>= 0.3.2,hashdiff:>= 0|checksum:07f4e289cc3881e2a2c1529bad464bf4c493d720fec34a364a2133aef6ca5973,ruby:>= 2.0
 3.4.0 addressable:>= 2.3.6,crack:>= 0.3.2,hashdiff:>= 0|checksum:227cbb1c871ef42218dfaa4b7f6e7a802651c930881db1a26410bce8df7d361e,ruby:>= 2.0
+3.4.1 addressable:>= 2.3.6,crack:>= 0.3.2,hashdiff:>= 0|checksum:d52909e7bdc94501d452147d4729da185670d8b8e9a3d9aa0c82ecd3209e1a4b,ruby:>= 2.0

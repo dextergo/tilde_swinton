@@ -5,3 +5,4 @@
 0.4.0 mixlib-log:>= 0|checksum:7d7e27b7f5f7eba1ef3ed37c8e04412892c13cd41d815a80e8e6b21aeec79c35
 0.4.1 mixlib-log:>= 0|checksum:f319d7767f4473dcfe5fc64efa7d9d803252580593a1f5afecb031b4f38da6ac
 0.4.2 mixlib-log:>= 0|checksum:1967ebd495df6dfff2454cfd705a3e2ea7a1eea84f54ad6b7ad664881cece6ff
+0.4.4 mixlib-log:>= 0|checksum:42e9b57fe0fb4495944dce23016d4e784b78872497f3bcf7067793c1ee71681c

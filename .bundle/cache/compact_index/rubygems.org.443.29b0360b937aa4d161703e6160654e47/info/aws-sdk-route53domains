@@ -12,3 +12,4 @@
 1.0.0.rc11 aws-sdk-core:~> 3.0.0.rc20,aws-sigv4:~> 1.0|checksum:071e69e53ff555b2e3cb12e0db02c772b74f275866f5fe28cc2ca31eb1b169c4,rubygems:> 1.3.1
 1.0.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:7962b780d6add7756fd9afc79c57d1847a69513a29a65b257c9a8f6fc6fabf05
 1.1.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:0aacb48332d6444dd58e4fad541bc7f6d72fb0d085c4582f4111ba241def5b41
+1.2.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:a3ba95ef7d48b3c1b6d99cacadf34684295abb8e0abb56e8350198f2ab70587f
