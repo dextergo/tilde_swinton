@@ -5,6 +5,8 @@
 .*history
 .gem/*
 .rvm/*
+.nvm/*
+.npm/*
 .oh-my-zsh/*
 .Trash
 Applications
