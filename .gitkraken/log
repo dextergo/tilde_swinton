@@ -1,0 +1,9 @@
+{
+  "log": [
+    {
+      "actionName": "app_settings_action_set",
+      "count": 1,
+      "totalMS": 0
+    }
+  ]
+}
