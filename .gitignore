@@ -9,6 +9,7 @@
 .npm/*
 .node-gyp/*
 .oh-my-zsh*
+.oh-my-zsh/
 .oh-my-zsh/*
 .Trash
 Applications
