@@ -53,3 +53,4 @@
 4.6.2 crass:~> 1.0.2,nokogiri:>= 1.4.4,nokogumbo:~> 1.4|checksum:b07a3ddf283ec493c77be73ee18cf1bbcb71947c8f2a89d537d6cafe6b125962,ruby:>= 1.9.2,rubygems:>= 1.2.0
 4.6.3 crass:~> 1.0.2,nokogiri:>= 1.4.4,nokogumbo:~> 1.4|checksum:364865f13322e5a93707273706e0c8df806a56a13d5b3bd15d13d31d35d50441,ruby:>= 1.9.2,rubygems:>= 1.2.0
 4.6.4 crass:~> 1.0.2,nokogiri:>= 1.4.4,nokogumbo:~> 1.4|checksum:513a8bf36e35b27cc5a96466f35b7c394413bd4a5a9003303925ce2230960bed,ruby:>= 1.9.2,rubygems:>= 1.2.0
+4.6.5 crass:~> 1.0.2,nokogiri:>= 1.4.4,nokogumbo:~> 1.4|checksum:a4ff5bbd2d8dcd3ed287685533c9579d2593f6127a74392759004fb43e190457,ruby:>= 1.9.2,rubygems:>= 1.2.0

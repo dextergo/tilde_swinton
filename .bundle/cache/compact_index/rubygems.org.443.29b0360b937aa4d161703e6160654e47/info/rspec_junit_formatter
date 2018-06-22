@@ -19,3 +19,5 @@
 0.3.0 rspec-core:!= 2.12.0&< 4&>= 2|checksum:bedb17f90714078f97fffe9d6bb688192ba85081f4fe6875bc6427128cf4a4ea,ruby:>= 2.0.0,rubygems:>= 2.0.0
 0.4.0.pre rspec-core:!= 2.12.0&< 4&>= 2|checksum:597b7b636c1f13f13064b8b190ba505fd2bade5ce7710f3452c104adfad02453,ruby:>= 2.0.0,rubygems:>= 2.0.0
 0.4.0.pre2 rspec-core:!= 2.12.0&< 4&>= 2|checksum:d4cf273cdea9676ed0c6e3ed3115b21658c026e974b8cadb49d61821f2e12185,ruby:>= 2.0.0,rubygems:>= 2.0.0
+0.4.0 rspec-core:!= 2.12.0&< 4&>= 2|checksum:43afdc94aca46d9baaa13e65bc17cd29608fff2ebaf05928628ef0a2493132ce,ruby:>= 2.0.0,rubygems:>= 2.0.0
+0.4.1 rspec-core:!= 2.12.0&< 4&>= 2|checksum:3788f9b3fabc6284b93493cf4b3a80cba2b59b3a774b95f39dd7886d5faed6ab,ruby:>= 2.0.0,rubygems:>= 2.0.0

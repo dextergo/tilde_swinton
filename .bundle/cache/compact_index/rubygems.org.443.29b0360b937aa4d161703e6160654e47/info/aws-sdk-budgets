@@ -18,3 +18,5 @@
 1.3.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:d931d21463b7b84110a87a50c04f9e7ef2e67ac8619d5a016c9b343082aea41a
 1.4.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:f50b2656a6255bb4c1db85ae759f8eb5cef63735609ee7191d0f97822357c521
 1.5.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:8f3a765f63ca4cdb0439391adfa60cb56e25eb2bdbab932cae8ccee4ad33b079
+1.6.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:e47efbbf0eb958802888ff65907d47777339034130b0d8e8b064324ae927873b
+1.7.0 aws-sdk-core:~> 3,aws-sigv4:~> 1.0|checksum:59e24d67686a473689bdab7ea49d0a0ae399a460300d35b4d9bf561f6490474c

@@ -521,3 +521,24 @@
 2.11.40 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:760a273d85596c2b1ea982f4601efe421d7e311980b5bf49a99725433b2b9c4e
 2.11.41 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:0cbbd7f3dc2175e63e44ce8eae1bdd3da1d7e4448009519032dab1cef3a1d572
 2.11.42 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:4cc650258269bb54bf2a7b23bbe1c57eecd8679260edd7d4db4e417c2f450f25
+2.11.43 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:a3bb1d4a5cdf6898becb8955d1f035f2b815609c8593393b51f2121762a70575
+2.11.44 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:fe9a53bb66dd0406b205fe1d88cec53174942951c94fb5b2393fca08c309f267
+2.11.45 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:f5a9f52e1e0cafa4085df02a40633330aeee89dddfbb77af050c918aa062d741
+2.11.46 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:4abb1be3efca231c2fb928fef3d7010acacb9d4e0b20ef0b86778ff859a66005
+2.11.47 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:cbce2644d6e9e25d018df432d8262bc6084871cd049db2cee45c02154c2ff828
+2.11.48 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:1ebcec5d377e23889030207fcd07277c3af6e27558bfe8329652b97235820a62
+2.11.49 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:bfe2560fd7787bb16336e8ee82bf34ba29ed836462795c4bc2aee453ba7bd49d
+2.11.50 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:e5513891bf516973cb171c81776c1af7719fb345e720d9a365c5bcb308105f9d
+2.11.51 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:b17b7dd916ef4cb0587c8596ca021f3f275e91201d53d663827453476412e2a4
+2.11.52 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:6d5603fc1d149a0ffbd1909d4d7c947d81cfd21b0a1739da086b75436c6694b1
+3.21.0 aws-eventstream:~> 1.0,aws-partitions:~> 1.0,aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:531a5e5621dc94446403f7de51f3f6e7e6cdb0d23258741b0da92fb4f0d2c352
+2.11.53 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:81a990b08de9542171a93732acef155e7ee5547ef62959e1811ecf40eb80ed16
+3.21.1 aws-eventstream:~> 1.0,aws-partitions:~> 1.0,aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:c22efba4d845a0c031b70ece3903adc6c44888d2b29e239c932306a4e243c260
+2.11.54 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:a57e54d51c5eb3b69b0d06419999cf907ad2145f104f821c2323868749ac0125
+2.11.55 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:6d13fbc328cec846e8d3a952959948724b48ccb4ccb22434bc4f2984d3e009ea
+3.21.2 aws-eventstream:~> 1.0,aws-partitions:~> 1.0,aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:f8f80c05c1cd6dbdff8c7a3defbbeb398cce4ccee25f79abcb4244c1883622d0
+2.11.56 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:eb26098893cb7437ddf2e1be7136e2cd432d93fbbbf9c82df044ace82ec5cada
+2.11.57 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:317d0ac55ea1a9ff5b290cf01fb847a70d256c3e79ffc5533b560c1dc299cbab
+2.11.58 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:11081cc3449586d0a6f042f68ef2fede955219c20d0c50c4bfefe402e8f8566a
+2.11.59 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:b388049b5714e7b35cf68000b4f917df24f5cb2482e431cb95e8d6d80a3fe95f
+2.11.60 aws-sigv4:~> 1.0,jmespath:~> 1.0|checksum:c28d155428cb893cf638bc9a96fd760bfa0c9f9934f05527cf29f34c2599f943

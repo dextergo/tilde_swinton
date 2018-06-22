@@ -17,6 +17,14 @@
 		"1526876929608 c001d21e-da1b-444e-abd2-5b695c4f4793": {
 			"path": "/build/null/successful",
 			"type": "pageview"
+		},
+		"1529546589239 a592c1f1-657b-4cc8-b923-32dfad87342d": {
+			"path": "/version/null/successful",
+			"type": "pageview"
+		},
+		"1529546589260 7a7645ec-91d8-442b-8107-509266eaba83": {
+			"path": "/version/null/successful",
+			"type": "pageview"
 		}
 	}
 }

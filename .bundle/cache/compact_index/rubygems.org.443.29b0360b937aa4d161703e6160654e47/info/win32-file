@@ -19,3 +19,4 @@
 0.7.3 ffi:>= 0,win32-file-stat:>= 1.4.0|checksum:afec2835ed32ecbb1c2af656a1ba916c723af13d28e5d8f6e9a9b62f9c237f6f,ruby:>= 1.9.0
 0.8.0 ffi:>= 0,win32-file-stat:>= 1.4.0|checksum:b17b48334095855b907b55ee4670bdc830eaf4cc2496af618512b22156f9c9ef,ruby:>= 1.9.0
 0.8.1 ffi:>= 0,ffi-win32-extensions:>= 0,win32-file-stat:>= 1.4.0|checksum:a0ab2e94bf8631111b9ed54286b616b917cde04bcdc2e3b0f4ddae45f6a75e56,ruby:>= 1.9.0
+0.8.2 ffi:>= 0,ffi-win32-extensions:>= 0,win32-file-stat:>= 1.4.0|checksum:ac4089bd5a17f302f189c76fe16e1a6da45cfabf8d2af8fd66c92de77a16e252,ruby:>= 1.9.0

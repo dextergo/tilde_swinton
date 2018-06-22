@@ -27,3 +27,7 @@
 1.8.2 aws-sdk-core:~> 3,aws-sdk-kms:~> 1,aws-sigv4:~> 1.0|checksum:be5cd8fb873036b3b688dfb2ed8247340b2ee78d371cc4125c515823eb3c3d5d
 1.9.0 aws-sdk-core:~> 3,aws-sdk-kms:~> 1,aws-sigv4:~> 1.0|checksum:c8295ff7fd270adfd015b37321c57d711b29c50cc43b9a56a80e39110029d82a
 1.9.1 aws-sdk-core:~> 3,aws-sdk-kms:~> 1,aws-sigv4:~> 1.0|checksum:84f1cef49f57ba586e98a58ee20d3d2702bbf7e1cea34c4f6897b9514ede997f
+1.10.0 aws-sdk-core:~> 3,aws-sdk-kms:~> 1,aws-sigv4:~> 1.0|checksum:147ea57600e7df9e23357b352ea9cde0d39893481d3a07cfb121ab5e6d2aa1f8
+1.11.0 aws-sdk-core:>= 3.21.0&~> 3,aws-sdk-kms:~> 1,aws-sigv4:~> 1.0|checksum:d71338d5b8004a2e3b6e85db0fce60a99006d4b3c50207807423aeb8f0941008
+1.12.0 aws-sdk-core:>= 3.21.1&~> 3,aws-sdk-kms:~> 1,aws-sigv4:~> 1.0|checksum:d4b8bdea8fc81f34b64024330df66247bb2731e2611cbc124b94352d6987ac40
+1.13.0 aws-sdk-core:>= 3.21.2&~> 3,aws-sdk-kms:~> 1,aws-sigv4:~> 1.0|checksum:fb83dc3f5bb1ff9160393a836bb6d591124ac186057a05ced7729609b15457c1

@@ -33,3 +33,4 @@
 1.16.0 capybara:~> 2.1,cliver:~> 0.3.1,websocket-driver:>= 0.2.0|checksum:99fb33e957f844af07e1400fde1646f49833d5ec59f9d7e98a62c0826e9d8ca3,ruby:>= 1.9.3
 1.17.0 capybara:~> 2.1,cliver:~> 0.3.1,websocket-driver:>= 0.2.0|checksum:f4cb81b08cfae624e90be9b9ecec654879ae40e589cf6f7337c7a3234b77c13a,ruby:>= 1.9.3
 1.18.0 capybara:< 4&>= 2.1,cliver:~> 0.3.1,websocket-driver:>= 0.2.0|checksum:33f947a25af6c56030caeb797f4e1f124a602d54b65c73205d59ed2a7c96fddc,ruby:>= 1.9.3
+1.18.1 capybara:< 4&>= 2.1,cliver:~> 0.3.1,websocket-driver:>= 0.2.0|checksum:25a9d7140e697794fd376d6fea89e6f3ec1706c0f901cab4d1b0ea7bd2058846,ruby:>= 1.9.3

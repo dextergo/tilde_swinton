@@ -95,3 +95,4 @@
 0.53.0 parallel:~> 1.10,parser:>= 2.5,powerpack:~> 0.1,rainbow:< 4.0&>= 2.2.2,ruby-progressbar:~> 1.7,unicode-display_width:>= 1.0.1&~> 1.0|checksum:ce9862b128c49183b2bf2b3416825557ca99bddd504eb1a9f815e8039f201b28,ruby:>= 2.1.0
 0.54.0 parallel:~> 1.10,parser:>= 2.5,powerpack:~> 0.1,rainbow:< 4.0&>= 2.2.2,ruby-progressbar:~> 1.7,unicode-display_width:>= 1.0.1&~> 1.0|checksum:3a2208fe1166b22e109b3a184aa0bd26e04d16e78587b9c714e63980694ade80,ruby:>= 2.1.0
 0.55.0 parallel:~> 1.10,parser:>= 2.5,powerpack:~> 0.1,rainbow:< 4.0&>= 2.2.2,ruby-progressbar:~> 1.7,unicode-display_width:>= 1.0.1&~> 1.0|checksum:21fc1b25eee37a6b601144b02f2b90d608555aa09aafbf57f03636828d99169f,ruby:>= 2.1.0
+0.56.0 parallel:~> 1.10,parser:>= 2.5,powerpack:~> 0.1,rainbow:< 4.0&>= 2.2.2,ruby-progressbar:~> 1.7,unicode-display_width:>= 1.0.1&~> 1.0|checksum:687f9418a1475911fdd0cf7c57009620daef2caffe5692b621dc6d1abfb04212,ruby:>= 2.1.0

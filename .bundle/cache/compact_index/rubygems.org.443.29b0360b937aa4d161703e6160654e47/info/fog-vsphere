@@ -43,3 +43,5 @@
 2.0.1 fog-core:>= 0,rbvmomi:~> 1.9|checksum:93c882b59df4ee8239768ba30f8aefd9014014a76e3fa62bd19b68cc9017ce11,ruby:>= 2.0.0
 2.1.0 fog-core:>= 0,rbvmomi:~> 1.9|checksum:ebb264ef667ed948e11d28fe0a9a8f631f1ee05622e878fc401e022ccc38ddd6,ruby:>= 2.0.0
 2.1.1 fog-core:>= 0,rbvmomi:~> 1.9|checksum:ef7d6d9de2b575df0a61f8cd3368bcd218f347cd28668a311c5b9f9541e9f5f2,ruby:>= 2.0.0
+1.7.0.1 fog-core:>= 0,rbvmomi:~> 1.9|checksum:d264cbcb47333bb522c5158a1bc73cdbb9f0ebd242ddc280753a9b216698f807,ruby:>= 1.8.7
+2.2.0 fog-core:>= 0,rbvmomi:~> 1.9|checksum:15d76893e03d63408ab4b70e0f1249c9a2b8c9f3064ee182fe98b323331edbed,ruby:>= 2.0.0

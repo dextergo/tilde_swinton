@@ -69,3 +69,5 @@
 0.13.1 multipart-post:< 3&>= 1.2|checksum:1c82a788fb827fb4c01766e0777ed8044856f92f8824b7e3e6d663ba8fd4d8bf,ruby:>= 1.9
 0.14.0 multipart-post:< 3&>= 1.2|checksum:39ffa339accf15a8e3357ef5cb94ad5c0f4c14ef0d6ee76d3cce96b5911e7db0,ruby:>= 1.9
 0.15.0 multipart-post:< 3&>= 1.2|checksum:4a29d584a33d189ea745bb3b3db36661e28f32a035c62632f09b70df3bdb61b7,ruby:>= 1.9
+0.15.1 multipart-post:< 3&>= 1.2|checksum:bd5bd1ab8db9b3f99ed1113d80522dabf95941e40cc3107f9621546f6a357f60,ruby:>= 1.9
+0.15.2 multipart-post:< 3&>= 1.2|checksum:affa23f5e5ee27170cbb5045c580af9b396bac525516c6583661c2bb08038f92,ruby:>= 1.9

@@ -36,3 +36,5 @@
 3.0.3 i18n:>= 0.6.6&~> 0.6|checksum:eccc4c4a0f19c33f37ff518f80012ce3a4eb657fdb83770172f009fbc726e19e,ruby:>= 2.1.0
 3.0.4 i18n:>= 0.6.6&~> 0.6|checksum:ee01b68f1b051110fb0071e6b44a5b6ae9e4e10f341a4cef0c684f9f296770c6,ruby:>= 2.1.0
 3.0.5 i18n:< 2&>= 0.6.6|checksum:68ab01b2494d5969b8e7bf3338f1d8f6452a8f158ef0a2172a28805717db4212,ruby:>= 2.1.0
+3.0.6 i18n:< 2&>= 0.6.6|checksum:002a8a867a551058137fcef46da3ac9cddbfad78ce5fe2c481b2ba6422baffa7,ruby:>= 2.1.0
+3.0.7 i18n:< 2&>= 0.6.6|checksum:ced36d1ed6d79b4074bd00b8fa165364c070d823bc8666bf67858ff5e941e103,ruby:>= 2.1.0

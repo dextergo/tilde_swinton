@@ -32,3 +32,5 @@
 1.3.1 fog-core:>= 0,fog-json:>= 0,fog-xml:>= 0,google-api-client:~> 0.19.1|checksum:1643e5caa1d67ab8680528f0a927043524ac213c55c5d2d2861179cc550cc26a,ruby:~> 2.0
 1.3.2 fog-core:>= 0,fog-json:>= 0,fog-xml:>= 0,google-api-client:~> 0.19.1|checksum:9a29df3797a0eb3d07a14ef475099cc56d2baac6ee425cb851cf04c674d49977,ruby:~> 2.0
 1.3.3 fog-core:>= 0,fog-json:>= 0,fog-xml:>= 0,google-api-client:~> 0.19.1|checksum:7158be020192d7e225d61c70de24aceb05c3e7275713d2c47f9361e53b9c0027,ruby:~> 2.0
+0.1.2 fog-core:>= 0,fog-json:>= 0,fog-xml:>= 0|checksum:a95bf219017b38550881037ad995a0cef56cc0b5d870b2bbe028f6bd02519f23,ruby:>= 2.0
+0.1.3 fog-core:>= 0,fog-json:>= 0,fog-xml:>= 0|checksum:03e0fa4c609c14a5b2dd93bdcaf45c7e7c4f14f5525ce5724503ba65e8c05179

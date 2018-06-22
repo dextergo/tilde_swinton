@@ -9,3 +9,5 @@
 0.3.1 dry-core:>= 0,dry-equalizer:>= 0|checksum:e115107c746348b5a333f9a8bca3131a1c5283bc39a7acad600368b4baf329d1,ruby:>= 2.1.0
 0.4.0 dry-core:>= 0.3.3&~> 0.3,dry-equalizer:>= 0|checksum:5615463fef60c5eb79812da4b40244ce432bafa3384872814408e297998972b9,ruby:>= 2.2.0
 1.0.0.beta1 concurrent-ruby:~> 1.0,dry-core:>= 0.4.4&~> 0.4,dry-equalizer:>= 0|checksum:204a9c15096923e5058f22344880af92335b5893fccf4cf31c56f97836a1faec,ruby:>= 2.2.0,rubygems:> 1.3.1
+1.0.0.beta2 concurrent-ruby:~> 1.0,dry-core:>= 0.4.4&~> 0.4,dry-equalizer:>= 0|checksum:99ffe0b1c047b9652f515ae6048196b68544e5d68db81d50db05bfaed6cd4759,ruby:>= 2.2.0,rubygems:> 1.3.1
+1.0.0.beta3 concurrent-ruby:~> 1.0,dry-core:>= 0.4.4&~> 0.4,dry-equalizer:>= 0|checksum:396d5bfc3241e0b2974b4d9f76532a972b7c6cd0d7880a3e5413f4b2eebd6864,ruby:>= 2.2.0,rubygems:> 1.3.1

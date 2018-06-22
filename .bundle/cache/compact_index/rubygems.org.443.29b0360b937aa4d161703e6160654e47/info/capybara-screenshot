@@ -54,3 +54,5 @@
 1.0.17 capybara:< 3&>= 1.0,launchy:>= 0|checksum:939bb080da7fcd4416ba3894337dec9a95488eef5d533574814e091ffe09570e
 1.0.18 capybara:< 3&>= 1.0,launchy:>= 0|checksum:b73292d7e78d070df902ef9b9cdc033445f535c420c946d277fc0dd73df96be9
 1.0.19 capybara:< 4&>= 1.0,launchy:>= 0|checksum:7d8ce39e093c94ff1f4caeed09731cb0411b807cbcc95fa543a48584230f1e3c
+1.0.20 capybara:< 4&>= 1.0,launchy:>= 0|checksum:bd304a7c8e239a9c322075426f01c7ab2ba9d8704a8059737afef6b936a3dd9b
+1.0.21 capybara:< 4&>= 1.0,launchy:>= 0|checksum:383b51c7d123f85c364652e02e999e7ba743b321b59f8d178541b5ae358bc7a3

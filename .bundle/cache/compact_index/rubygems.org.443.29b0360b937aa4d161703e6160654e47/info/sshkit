@@ -58,3 +58,4 @@
 1.15.0 net-scp:>= 1.1.2,net-ssh:>= 2.8.0|checksum:b6037a2e5199c0eb44f167712882ab4307a6dd75beaf3843d3b817dc44d7e831
 1.15.1 net-scp:>= 1.1.2,net-ssh:>= 2.8.0|checksum:6dfd8bb0cbc236042cdf121c9af72fbd5a4d1f022893cf3c23e8f59f6a57a68d
 1.16.0 net-scp:>= 1.1.2,net-ssh:>= 2.8.0|checksum:4571475b1b44b2f8dc5c7d1cdb6fcb8b06f91eaf060984d5948761be5783580e
+1.16.1 net-scp:>= 1.1.2,net-ssh:>= 2.8.0|checksum:15f0977862124045133fe005c8a3fc8a23f3df10f50b4361b590731631dbe918
